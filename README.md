@@ -19,6 +19,18 @@ Rust       ██████░░░░░░░░░░░░░░  when sp
 - **Feature flags** — contributor to the [OpenFeature](https://openfeature.dev) ecosystem
 - **Developer experience** — making on-call, code ownership, and modularity less painful
 
+## Writing
+
+I write about engineering practices, platform engineering, and open source on **[Medium](https://medium.com/@colellajosemiguel)** and the **[Gusto Engineering Blog](https://engineering.gusto.com)**.
+
+| Article | Published in |
+|---------|-------------|
+| [Platform Engineering at Gusto: Part 2](https://engineering.gusto.com/platform-engineering-at-gusto-part-2-01cfb46855f7) | Gusto Engineering |
+| [End to End Feature Development at Gusto](https://medium.com/gusto-engineering/end-to-end-feature-development-at-gusto-731c3fa09644) | Gusto Engineering |
+| [Flagd Formula: My first contribution to the Homebrew project](https://medium.com/@colellajosemiguel/flagd-formula-my-first-contribution-to-the-homebrew-project-ab33dba470e8) | Medium |
+
+> More on my [Medium profile](https://medium.com/@colellajosemiguel)
+
 ## A few things I've built
 
 | Project | What it does |
@@ -39,6 +51,7 @@ Rust       ██████░░░░░░░░░░░░░░  when sp
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecolella/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@colellajosemiguel)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:josecolella@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/josecolella)
 
