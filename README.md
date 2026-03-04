@@ -1,6 +1,6 @@
 # Hey, I'm Jose Miguel Colella
 
-Software Engineer at **[@Gusto](https://gusto.com)** in San Francisco. Building tools that make developers' lives better, one commit at a time.
+Software Engineer at **[@Gusto](https://gusto.com)** in San Francisco. Currently working on building the Compliance platform at Gusto
 
 I've been shipping code on GitHub since **2012** and I'm still having fun.
 
