@@ -38,7 +38,6 @@ I write about engineering practices, platform engineering, and open source on **
 | [claude-code-ruby-lsp](https://github.com/josecolella/claude-code-ruby-lsp) | Ruby code intelligence plugin for Claude Code |
 | [claude-code-presentation](https://github.com/josecolella/claude-code-presentation) | Talk on AI-powered developer workflows at Gusto |
 | [node-api-starter-template](https://github.com/josecolella/node-api-starter-template) | Production-ready Node.js API template with Inversify |
-| [codeowners-rs](https://github.com/josecolella/codeowners-rs) | Fast CODEOWNERS parser in Rust |
 
 ## GitHub stats
 
