@@ -39,14 +39,6 @@ I write about engineering practices, platform engineering, and open source on **
 | [claude-code-presentation](https://github.com/josecolella/claude-code-presentation) | Talk on AI-powered developer workflows at Gusto |
 | [node-api-starter-template](https://github.com/josecolella/node-api-starter-template) | Production-ready Node.js API template with Inversify |
 
-## GitHub stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=josecolella&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=josecolella&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=josecolella&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true" />
-</picture>
-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josecolella/)
